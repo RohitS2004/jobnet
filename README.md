@@ -17,9 +17,9 @@
 - Fourth Phase: Testing the application, In this phase the application will be tested on several parameters like the responsiveness, error failures etc.
 - Deployment PhasE: So this will be the final phase in which I will launch the application on the PlayStore so the users can download the application, initially the application will be launched for Android Devices only but in the future it will be launched on IOS devices too.
 
-# Ending
+# Most Important 🔥
 - If you have read this far then please consider giving the repo a star and follow me on github.
 
-# For Android Developers
+# For Android Developers 🤖
 - If any of you guys want to contribute to the code you are more than welcome.
 - https://www.linkedin.com/in/rohitsaini08/ This is my linkedin profile in case you want to contact me about the project or anything.
