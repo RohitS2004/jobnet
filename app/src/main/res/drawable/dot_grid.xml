@@ -1,0 +1,246 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="110dp"
+    android:height="176dp"
+    android:viewportWidth="110"
+    android:viewportHeight="176">
+  <path
+      android:pathData="M106.02,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M106.02,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M91.35,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M76.68,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M62.01,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M47.34,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M32.67,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M18,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,3.33m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,21.14m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,38.94m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,56.74m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,74.55m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,92.35m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,110.15m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,127.95m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,145.76m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+  <path
+      android:pathData="M3.33,163.56m0,-3.33a3.33,3.33 0,1 0,0 6.67a3.33,3.33 0,1 0,0 -6.67"
+      android:fillColor="#D9D9D9"/>
+</vector>
