@@ -12,7 +12,7 @@
 
 # The whole application will be built in phases
 - First Phase: In the very first phase I am going to desing the whole application in Figma and check if it looks good or not.
-- Figma file link https://www.figma.com/proto/NX3tdrFSAKsxmvLnRevYgl/Jobnet?node-id=0-1&t=jJEF9Fe66baqNLg1-1
+- Figma file link: https://www.figma.com/proto/NX3tdrFSAKsxmvLnRevYgl/Jobnet?node-id=25-2&t=yq3xclt5ORZeYayX-1
 
 - Second Phase: Now we are in the second phase which means writing actual code, So in this phase I will code the all the UI part of the Application and try to make it look pixel perfect.
 - Third Phase: Writing the Backend, So in this phase I am going to write the logic for the entire application as well as introduce the database for storing the application database.
